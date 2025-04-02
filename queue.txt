@@ -1,0 +1,5 @@
+# Example queue file - Add your media files to be processed below
+# Format: one full path per line
+
+#/path/to/media/example-movie-1.mkv
+#/path/to/media/example-movie-2.mkv
